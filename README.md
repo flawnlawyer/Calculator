@@ -14,7 +14,7 @@ A modern, fully-functional calculator built with Python and Tkinter featuring a 
 - Backspace to delete last character
 - Escape key to clear (C)
 
-🧮 **Calculator Functions**
+🧮 **Calculator Functions
 - Multi-step arithmetic expressions
 - Safe expression evaluation
 - Error handling (division by zero, invalid syntax)
