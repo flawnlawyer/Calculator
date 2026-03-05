@@ -18,7 +18,7 @@ class CalculatorApp:
         self.memory = 0
         self.dark_mode = False
         
-        # Color schemes
+        # Color 
         self.light_theme = {
             'bg': '#f0f4f8',
             'display_bg': '#ffffff',
